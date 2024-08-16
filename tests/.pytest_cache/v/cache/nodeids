@@ -1,0 +1,5 @@
+[
+  "test_auth.py::test_user_registration",
+  "test_main.py::test_read_movies",
+  "test_main.py::test_user_registration"
+]
